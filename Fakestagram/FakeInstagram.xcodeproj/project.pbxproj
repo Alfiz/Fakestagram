@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		955C431D224FD50500475177 /* Fakestagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fakestagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		955C431D224FD50500475177 /* FakeInstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FakeInstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		955C4320224FD50500475177 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		955C4322224FD50500475177 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		955C4325224FD50500475177 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,7 +38,7 @@
 		955C4314224FD50500475177 = {
 			isa = PBXGroup;
 			children = (
-				955C431F224FD50500475177 /* Fakestagram */,
+				955C431F224FD50500475177 /* FakeInstagram */,
 				955C431E224FD50500475177 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,12 +46,12 @@
 		955C431E224FD50500475177 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				955C431D224FD50500475177 /* Fakestagram.app */,
+				955C431D224FD50500475177 /* FakeInstagram.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		955C431F224FD50500475177 /* Fakestagram */ = {
+		955C431F224FD50500475177 /* FakeInstagram */ = {
 			isa = PBXGroup;
 			children = (
 				955C4320224FD50500475177 /* AppDelegate.swift */,
@@ -61,15 +61,15 @@
 				955C4329224FD50700475177 /* LaunchScreen.storyboard */,
 				955C432C224FD50700475177 /* Info.plist */,
 			);
-			path = Fakestagram;
+			path = FakeInstagram;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		955C431C224FD50500475177 /* Fakestagram */ = {
+		955C431C224FD50500475177 /* FakeInstagram */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 955C432F224FD50700475177 /* Build configuration list for PBXNativeTarget "Fakestagram" */;
+			buildConfigurationList = 955C432F224FD50700475177 /* Build configuration list for PBXNativeTarget "FakeInstagram" */;
 			buildPhases = (
 				955C4319224FD50500475177 /* Sources */,
 				955C431A224FD50500475177 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = Fakestagram;
+			name = FakeInstagram;
 			productName = Fakestagram;
-			productReference = 955C431D224FD50500475177 /* Fakestagram.app */;
+			productReference = 955C431D224FD50500475177 /* FakeInstagram.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 955C4318224FD50500475177 /* Build configuration list for PBXProject "Fakestagram" */;
+			buildConfigurationList = 955C4318224FD50500475177 /* Build configuration list for PBXProject "FakeInstagram" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				955C431C224FD50500475177 /* Fakestagram */,
+				955C431C224FD50500475177 /* FakeInstagram */,
 			);
 		};
 /* End PBXProject section */
@@ -315,7 +315,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		955C4318224FD50500475177 /* Build configuration list for PBXProject "Fakestagram" */ = {
+		955C4318224FD50500475177 /* Build configuration list for PBXProject "FakeInstagram" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				955C432D224FD50700475177 /* Debug */,
@@ -324,7 +324,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		955C432F224FD50700475177 /* Build configuration list for PBXNativeTarget "Fakestagram" */ = {
+		955C432F224FD50700475177 /* Build configuration list for PBXNativeTarget "FakeInstagram" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				955C4330224FD50700475177 /* Debug */,
